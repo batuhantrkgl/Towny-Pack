@@ -1,6 +1,6 @@
 # Towny-Pack - 1.18.2
 
-##How To Use?
+## How To Use?
 Step 1 - Create A Folder 
 Step 2 - Use The `Download As Zip` Or `git clone https://github.com/batuhantrkgl/Towny-Pack`
 step 3 - Start The Server Use: 
